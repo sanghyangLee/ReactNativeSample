@@ -1,5 +1,4 @@
 <resources>
-    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
     <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">a28-497-a-0e17</string>
     <string moduleConfig="true" name="appcenterAnalytics_whenToEnableAnalytics">ALWAYS_SEND</string>
     <string name="app_name">ReactNativeSample</string>
